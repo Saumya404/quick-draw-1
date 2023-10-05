@@ -1,0 +1,36 @@
+h1{
+    font-size: 55px !important;
+    position: fixed;
+    color: #ffffff;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    text-shadow: 7px 5px 6px rgb(16, 255, 123);
+    
+}
+
+p{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+#show_sketch{
+    float: right;
+}
+
+#sketch_to_be_draw{
+    font-size: 30px;
+    color:hsl(43, 100%, 50%);
+    
+}
+#score{
+    float:left;
+    color:wheat;
+    font-size: 30px;
+}
+
+#time{
+    float: right;
+    color:wheat;
+    font-size: 30px;
+}
